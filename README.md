@@ -12,7 +12,7 @@ Traditional keyword-based search implementation
 
 #### Features:
 - ✅ Basic search queries with relevance scoring
-- 📄 Pagination (`from/size` and `search_after`)
+- 📄 Pagination (`from/size`)
 - 🔍 Filtering with boolean queries
 - 📊 Faceted search with aggregations
 - ⚡ Performance optimized settings
