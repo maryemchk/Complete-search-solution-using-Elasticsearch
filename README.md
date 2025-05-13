@@ -54,6 +54,9 @@ Context-aware search using ELSER v2
 | Python          | 3.8+                  |
 | Dependencies    | See `requirements.txt`|
 
+![image](https://github.com/user-attachments/assets/ec106a8f-c868-4007-a423-81ce974c73ec)
+
+
 
 
 
