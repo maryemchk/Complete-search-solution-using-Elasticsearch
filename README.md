@@ -58,8 +58,8 @@ Context-aware search using ELSER v2
 
 
 ### set up guide
-1- follow the project setup in  [Elasticsearch Search Labs Tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial).
-2- replace the files by the files in this repo and u re free to go 
+- follow the project setup in  [Elasticsearch Search Labs Tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial).
+- replace the files by the files in this repo and u re free to go 
 
 
 
