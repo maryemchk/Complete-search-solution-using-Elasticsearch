@@ -26,7 +26,7 @@ Vector similarity search implementation
 
 #### Features:
 - 🤖 Dense vector embeddings (sentence-transformers)
-- 🔢 k-NN search with HNSW graphs
+- 🔢 k-NN search 
 - 🔄 Hybrid vector+keyword search
 - 🏎️ Optimized for production workloads
 
@@ -41,7 +41,7 @@ Context-aware search using ELSER v2
 - 🧠 ELSER v2 model deployment
 - 💡 Semantic query expansion
 - 🔄 Hybrid semantic+keyword search
-- ✨ Fast Vector Highlighting (FVH)
+
 
 #### Directory: `semantic-search-elser/`
 
@@ -57,6 +57,9 @@ Context-aware search using ELSER v2
 ![image](https://github.com/user-attachments/assets/ec106a8f-c868-4007-a423-81ce974c73ec)
 
 
+### set up guide
+1- follow the project setup in  [Elasticsearch Search Labs Tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial).
+2- replace the files by the files in this repo and u re free to go 
 
 
 
